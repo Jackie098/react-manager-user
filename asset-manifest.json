@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-manager-user/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-manager-user/static/js/main.e53f8f8e.chunk.js",
+    "main.js.map": "/react-manager-user/static/js/main.e53f8f8e.chunk.js.map",
+    "runtime-main.js": "/react-manager-user/static/js/runtime-main.fd2590de.js",
+    "runtime-main.js.map": "/react-manager-user/static/js/runtime-main.fd2590de.js.map",
+    "static/js/2.38f3a6a0.chunk.js": "/react-manager-user/static/js/2.38f3a6a0.chunk.js",
+    "static/js/2.38f3a6a0.chunk.js.map": "/react-manager-user/static/js/2.38f3a6a0.chunk.js.map",
+    "static/js/3.5a760d34.chunk.js": "/react-manager-user/static/js/3.5a760d34.chunk.js",
+    "static/js/3.5a760d34.chunk.js.map": "/react-manager-user/static/js/3.5a760d34.chunk.js.map",
+    "index.html": "/react-manager-user/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-manager-user/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.38f3a6a0.chunk.js.LICENSE.txt": "/react-manager-user/static/js/2.38f3a6a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-manager-user/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd2590de.js",
+    "static/js/2.38f3a6a0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e53f8f8e.chunk.js"
+  ]
+}
