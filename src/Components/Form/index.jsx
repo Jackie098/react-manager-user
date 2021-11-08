@@ -1,7 +1,9 @@
 import React from 'react'
-import ButtonSignUp from '../ButtonSignUp/ButtonSignUp'
-import Input from '../Input/Input'
-import './Form.scss'
+
+import ButtonSignUp from '../ButtonSignUp'
+import Input from '../Input'
+
+import './styles.scss'
 
 const Form = () => {
   return (

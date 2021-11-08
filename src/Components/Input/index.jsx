@@ -1,5 +1,6 @@
 import React from 'react'
-import './Input.scss'
+import './styles.scss'
+
 import { Icon } from '@iconify/react';
 
 const Input = ({ type, label, icon }) => {

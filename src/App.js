@@ -1,15 +1,14 @@
+import React from 'react';
+
 import './App.scss';
 
-import Form from './Components/Form/Form';
-import LoginPage from "./Components/LoginPage/LoginPage";
+import Routing from './routing';
+// import Login from '../src/pages/Login';
 
 function App() {
   return (
-    <div className="App">
-      <LoginPage>
-        <Form />
-      </LoginPage>
-    </div>
+    <Routing />
+    // <Login />
   );
 }
 

@@ -1,5 +1,6 @@
 import React from 'react'
-import './IllustrationBox.scss'
+import './styles.scss'
+
 import Svg from '../../Assets/Images/undraw_performance.svg'
 
 const IllustrationBox = () => {

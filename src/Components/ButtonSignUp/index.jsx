@@ -1,9 +1,9 @@
 import React from 'react'
-import './ButtonSignUp.scss'
+import './styles.scss'
 
 const ButtonSignUp = () => {
   return (
-    <button className="button-sign-up" onclick={(e) => { e.preventDefault() }}>
+    <button className="button-sign-up" onClick={(e) => { e.preventDefault() }}>
       CRIAR CONTA
     </button>
   )
